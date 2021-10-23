@@ -23,7 +23,7 @@ new Vue({ render: h => h(App) }).$mount('#app')
 
 ```html
 <template>
-  <SpeechRecognition lang="en-EN" @end="speechEnd" class="icon"/>
+  <SpeechRecognition lang="en-EN" :white="false" @end="speechEnd" class="icon"/>
 </template>
 
 <script>

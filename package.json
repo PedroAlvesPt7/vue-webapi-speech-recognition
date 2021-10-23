@@ -1,6 +1,6 @@
 {
   "name": "vue-webapi-speech-recognition",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Microphone icon as a single component (black as default and red when it's recording) to interact with the Web Speech Recognition Api",
   "repository": {
     "type": "git",

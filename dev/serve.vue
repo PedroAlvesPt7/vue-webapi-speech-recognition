@@ -17,6 +17,6 @@ export default Vue.extend({
 
 <template>
   <div id="app">
-    <SpeechRecognition lang="en-EN" @end="speechEnd"/>
+    <SpeechRecognition lang="en-EN" :white="false" @end="speechEnd"/>
   </div>
 </template>
