@@ -1,6 +1,6 @@
 # vue-webapi-speech-recognition
 
-Microphone icon as a single component (black as default and red when it's recording) to interact with the Web Speech Recognition Api.
+Microphone icon as a single component (black or white as default and pale red when it's recording) to interact with the Web Speech Recognition Api.
 
 ## Install Vue
 
